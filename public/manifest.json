@@ -1,0 +1,27 @@
+{
+  "name": "WallDash",
+  "short_name": "WallDash",
+  "description": "Dashboard smart home para tablet",
+  "display": "standalone",
+  "background_color": "#ede4f0",
+  "theme_color": "#ede4f0",
+  "orientation": "landscape",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/maskable-icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
