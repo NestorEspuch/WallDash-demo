@@ -28,7 +28,9 @@ Smart home dashboard for wall-mounted tablets. Neumorphic UI (Soft UI) built wit
 ## Preview
 
 ![Home](./src/assets/images/readme_images/Home.webp)
+
 ![Calendar](./src/assets/images/readme_images/Calendar.webp)
+
 ![Events](./src/assets/images/readme_images/Events.webp)
 ![Profile](./src/assets/images/readme_images/Profile.webp)
 
